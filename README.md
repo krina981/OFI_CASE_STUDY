@@ -107,8 +107,8 @@ OFI LogiX AI Platform
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ofi-logix/ofilogix-ai-platform.git
-   cd ofilogix-ai-platform
+   [git clone https://github.com/ofi-logix/ofilogix-ai-platform.git](https://github.com/krina981/OFI_CASE_STUDY/blob/main/app.py)
+   cd OFI_CASE_STUDY
 
 2. Create Virtual Environment
 
@@ -203,8 +203,9 @@ SHAP and LIME developers for explainable AI capabilities
 OFI LogiX AI - Transforming Logistics through Artificial Intelligence
 
   
-   Documentation
-   Demo
+   
+   ## Demo :- https://drive.google.com/file/d/1_PC1MrkvfULuQ_SHnnRHE7dnxzkwbx8l/view?usp=sharing
  
+
 
 </div>
